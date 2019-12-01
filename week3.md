@@ -89,7 +89,7 @@ $h_{\theta}(x)$作用是对于给定的输入变量，根据选择的参数计�
 
 
 
-# 二、代价函数Cost Function
+### 二、代价函数Cost Function
 
 #### 如何拟合LR模型的参数$\theta$
 
